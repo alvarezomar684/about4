@@ -13,17 +13,13 @@
         text-align: center;
         padding-top: 8px;
         margin-left: -1px;
-        margin-bottom: 28px;
-        
-    
+        margin-bottom: 28px;    
     }
 
     .son-09 > div:nth-child(2) {
         margin-left: 49px;
         margin-top: -72px;
-        line-height: 47px;
-        
-    
+        line-height: 47px;    
     }
 
     .son-09 > div > div {
@@ -33,14 +29,8 @@
         padding-bottom: 20px;        
         border-radius: 5px;
         font-size: 15px;
-        color: #CFCFCF;
-        
-    
-    }
-
-    
-
-    
+        color: #CFCFCF;    
+    }    
 }
 
 @media (max-width: 960px){  
@@ -72,32 +62,27 @@
 }
 
 @media (max-width: 540px){  
-    .shadow-tittle {
-        
+    .shadow-tittle {        
         font-size: 70px;
         margin-top: -1px;
-        margin-right: 108px;
-        
+        margin-right: 108px;        
     }
 
     .son-05 > h2 {
         font-size: 45px;
         margin-top: 17px;
-        margin-right: 182px;       
-        
+        margin-right: 182px;        
     }
 
     .son-02 {
         flex-basis: 85%;
         margin-left: -20px;
-        margin-right: 46px;
-        
+        margin-right: 46px;        
     }
 
     .grandchild-02-02 {
         margin-left: 10px;
-        font-size: 15px;
-        
+        font-size: 15px;        
     }
 
     .grandchild-02-03 {
@@ -105,14 +90,12 @@
         font-size: 15px;
     }
 
-    .grandchild-02-02 > ul > li > span {
-        
+    .grandchild-02-02 > ul > li > span {        
         display: block;
         width: 100%;
     }
 
-    .grandchild-02-03 > ul > li > span {
-        
+    .grandchild-02-03 > ul > li > span {        
         display: block;
         width: 100%;
     }
@@ -132,8 +115,7 @@
     }
 
 
-    .son-04 {
-        
+    .son-04 {        
         position: fixed;
         margin-left: 456px;
         margin-bottom: 1377px;
@@ -141,8 +123,7 @@
 
     .son-01 {        
         margin-top: -596px;       
-        margin-left: 3px;
-               
+        margin-left: 3px;               
     }
 
     .gear {
@@ -162,13 +143,11 @@
     }
 
     .great-great-grandchild-06-00 {        
-        font-size: 25px;     
-        
+        font-size: 25px;        
     }
 
     .great-great-grandchild-07-00 {        
-        font-size: 17px;     
-        
+        font-size: 17px;        
     }
 
     .son-07 {
@@ -183,8 +162,7 @@
         margin-top: 86px;
     }
 
-    .son-10 {
-        
+    .son-10 {        
         margin-top: 93px;
         font-size: 29px;
         margin-right: 88px;
@@ -206,6 +184,5 @@
     .cap {
         margin-top: -18px;
         margin-right: 11px;
-    }
-    
+    }    
 }

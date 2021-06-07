@@ -1,13 +1,11 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: content-box;    
-    
     font-family: 'Open Sans';
     color: #FFFFFF;
     list-style: none;
-    text-decoration: none;
-    
+    text-decoration: none;    
 }
 
 body {
@@ -42,12 +40,10 @@ img {
 }
 
 .gear,.arrow, .icon {
-    font-family: "WebSymbolsRegular";
-    
+    font-family: "WebSymbolsRegular";    
 }
 
-.father {
-    
+.father {    
     height: auto;
     display: flex;
     flex-flow: row wrap;
@@ -55,18 +51,13 @@ img {
     min-height: 907px;
     justify-content: space-between;
     align-items: center;
-    
-
 }
 
-.son {
-    
+.son {    
     height: 360px;
     margin-left: 5px;
     margin-right: 5px;
-    display: flex;
-    
-    
+    display: flex;    
 }
 
 .son-01 {
@@ -76,8 +67,7 @@ img {
     border-radius: 5px;
     width: auto;
     height: auto;
-    padding: 10px;
-    
+    padding: 10px;    
 }
 
 .son-02 {
@@ -88,26 +78,20 @@ img {
     margin-left: 30px;
     flex-flow: row wrap;
     display: flex;
-    justify-content: space-between;
-    
+    justify-content: space-between;    
 }
 
-.grandchild-02-01 {
-    
+.grandchild-02-01 {    
     flex-basis: 100%;
     height: 05%;
 }
 
-.grandchild-02-02 {
-    
+.grandchild-02-02 {    
     flex-basis: 46%;
-    height: 45%;
-    
-    
+    height: 45%;    
 }
 
-.grandchild-02-03 {
-    
+.grandchild-02-03 {    
     flex-basis: 45%;
     height: 45%;
 }
@@ -115,8 +99,7 @@ img {
 .grandchild-02-04 {    
     flex-basis: 100%;
     height: 10%;
-    align-self: flex-end;   
-    
+    align-self: flex-end;    
 }
 
 .grandchild-02-04 > a {
@@ -125,8 +108,7 @@ img {
 
 
 .son-03 {
-    flex-basis: 30%;
-    
+    flex-basis: 30%;    
     display: flex;   
     justify-content: space-between;
     flex-flow: row wrap;
@@ -138,8 +120,7 @@ img {
     width: 190px;
     height: 85px;
     padding: 10px;
-    text-align: center;
-    
+    text-align: center;    
 }
 
 .son-04 {
@@ -147,15 +128,12 @@ img {
     margin-right: 25px;
     display: flex;
     flex-flow: column wrap;    
-    height: auto; 
-    
-
+    height: auto;
 }
 
 .grandchild-04-00  {
     flex-basis: 100%;
-    height: 80px;
-    
+    height: 80px;    
 }
 
 .icon-google {    
@@ -176,8 +154,7 @@ img {
     opacity: 0;
     transition: all 300ms;
     text-align: center;
-    padding-top: 23px;
-    
+    padding-top: 23px;    
 }
 
 
@@ -194,8 +171,7 @@ img {
     opacity: 0;
     transition: all 300ms;
     text-align: center;
-    padding-top: 23px;
-    
+    padding-top: 23px;    
 }
 
 .overlay3 {
@@ -212,8 +188,7 @@ img {
     transition: all 300ms;
     text-align: center;
     padding-top: 23px;
-    margin-top: -70px;
-    
+    margin-top: -70px;    
 }
 
 .overlay4 {
@@ -230,8 +205,7 @@ img {
     transition: all 300ms;
     text-align: center;
     padding-top: 23px;
-    margin-top: -70px;
-    
+    margin-top: -70px;    
 }
 
 
@@ -249,8 +223,6 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     justify-content: center;
     flex-basis: 100%;
     height: 100px;
-    
-
 }
 
 .son-06 {
@@ -259,8 +231,7 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     flex-basis: 70%;
     flex-flow: row wrap;
     justify-content: space-between;
-    margin: 0px auto;
-    /*border: 3px solid white;*/
+    margin: 0px auto;    
 }
 
 .grandchild-06-00 {
@@ -270,16 +241,14 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     border-radius: 63px;
     text-align: center;
     display: flex;
-    justify-content: center; 
-    
+    justify-content: center;    
 }
 
 .great-great-grandchild-06-00 {    
     align-self: center; 
     font-size: 29px;  
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
-    
+    font-family: 'Poppins', sans-serif;    
 }
 
 .son-07 {
@@ -288,8 +257,7 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     flex-basis: 70%;
     flex-flow: row wrap;
     justify-content: space-between;
-    margin: 0px auto;
-    /*border: 3px solid white;*/
+    margin: 0px auto;    
 }
 
 .grandchild-07-00 {
@@ -298,15 +266,13 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     border: 8px solid transparent;    
     text-align: center;
     display: flex;
-    justify-content: center; 
-    
+    justify-content: center;    
 }
 
 .great-great-grandchild-07-00 {    
     align-self: center; 
     font-size: 18px;  
-    font-family: 'Poppins', sans-serif;
-    
+    font-family: 'Poppins', sans-serif;    
 }
 
 .son-08 {
@@ -329,8 +295,7 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     flex-basis: 70%;
     flex-flow: row wrap;
     justify-content: space-between;
-    margin: 0px auto;
-    /*border: 3px solid white;*/
+    margin: 0px auto;    
 }
 
 .son-09 {
@@ -338,9 +303,7 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     flex-flow: row wrap;
     margin-left: 290px;
     height: 140px;   
-    flex-basis: 500px;
-    
-    
+    flex-basis: 500px;    
 }
 
 .grandchild-09-00 {
@@ -359,31 +322,11 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     text-align: center;
     padding-top: 8px;
     margin-left: -56px;
-    
-
 }
 
 .son-09 > div:nth-child(2) {
     margin-top: -90px;
 }
-
-/*
-
-.cap {
-    background-color: #ffb400;
-    width: 39px;
-    height: 32px;    
-    border-radius: 48px;
-    font-size: 15px;
-    color: #CFCFCF;
-    text-align: center;
-    padding-top: 8px;
-    margin-right: 20px;
-    
-
-}
-
-*/
 
 .son-09 > div > div {
     background-color: #212121;
@@ -392,7 +335,6 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     border-radius: 5px;
     font-size: 15px;
     color: #CFCFCF;
-
 }
 
 .son-09 > span > span {
@@ -412,8 +354,7 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     font: 900;
     font-family: 'Poppins', sans-serif;
     margin-right: 64px;
-    position: absolute;
-    
+    position: absolute;    
 }
 
 .son-05 > h2 > span {        
@@ -431,11 +372,8 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     font-weight: 800;
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    margin-top: -43px;
-    
+    margin-top: -43px;    
 }
-
-
 
 .shadow-personal-info {
     opacity: 0.5;    
@@ -503,8 +441,7 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     width: 60px;
     height: 40px;
     color: white;
-    text-align: center; 
-
+    text-align: center;
 }
 
 .son-04 a:hover {    
