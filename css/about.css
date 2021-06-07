@@ -313,6 +313,23 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     height: 70px;
 }
 
+.son-10 {
+    flex-basis: 100%;
+    justify-content: center;
+    font-size: 35px;
+    height: 70px;
+}
+
+.son-11 {
+    display: flex;
+    height: 94px;
+    flex-basis: 70%;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin: 0px auto;
+    /*border: 3px solid white;*/
+}
+
 .son-09 {
     display: flex;
     flex-flow: row wrap;
@@ -329,11 +346,46 @@ li:hover .overlay1, li:hover .overlay2, li:hover .overlay3, li:hover .overlay4 {
     text-align: justify;
 }
 
-.son-09 > div {
+.cap {
+    background-color: #ffb400;
+    width: 39px;
+    height: 32px;    
+    border-radius: 48px;
+    font-size: 15px;
+    color: #CFCFCF;
+    text-align: center;
+    padding-top: 8px;
+    margin-left: -56px;
+    
+
+}
+
+.son-09 > div:nth-child(2) {
+    margin-top: -90px;
+}
+
+/*
+
+.cap {
+    background-color: #ffb400;
+    width: 39px;
+    height: 32px;    
+    border-radius: 48px;
+    font-size: 15px;
+    color: #CFCFCF;
+    text-align: center;
+    padding-top: 8px;
+    margin-right: 20px;
+    
+
+}
+
+*/
+
+.son-09 > div > div {
     background-color: #212121;
     width: 119px;
-    height: 16px;
-    padding: 10px;
+    height: auto;    
     border-radius: 5px;
     font-size: 15px;
     color: #CFCFCF;

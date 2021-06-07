@@ -1,0 +1,211 @@
+@media (max-width: 1320px){
+    .grandchild-03-00 {
+        width: 161px;
+    }
+
+    .cap {
+        background-color: #ffb400;
+        width: 39px;
+        height: 32px;    
+        border-radius: 48px;
+        font-size: 15px;
+        color: #CFCFCF;
+        text-align: center;
+        padding-top: 8px;
+        margin-left: -1px;
+        margin-bottom: 28px;
+        
+    
+    }
+
+    .son-09 > div:nth-child(2) {
+        margin-left: 49px;
+        margin-top: -72px;
+        line-height: 47px;
+        
+    
+    }
+
+    .son-09 > div > div {
+        background-color: #212121;
+        width: 119px;
+        height: 23px;
+        padding-bottom: 20px;        
+        border-radius: 5px;
+        font-size: 15px;
+        color: #CFCFCF;
+        
+    
+    }
+
+    
+
+    
+}
+
+@media (max-width: 960px){  
+   .son-08 {
+       margin-top: 110px;
+   }
+
+   .son-02 {
+       flex-basis: 47%;
+       margin-left: 10px;
+   }
+
+   .son-03 {
+       flex-basis: 22%;
+   }
+
+   .grandchild-03-00 {
+        margin-bottom: 15px;
+    }
+
+    .son-09 {
+        margin-left: 152px;
+    }
+
+    .cap {
+        margin-left: -1px;
+    }
+    
+}
+
+@media (max-width: 540px){  
+    .shadow-tittle {
+        
+        font-size: 70px;
+        margin-top: -1px;
+        margin-right: 108px;
+        
+    }
+
+    .son-05 > h2 {
+        font-size: 45px;
+        margin-top: 17px;
+        margin-right: 182px;       
+        
+    }
+
+    .son-02 {
+        flex-basis: 85%;
+        margin-left: -20px;
+        margin-right: 46px;
+        
+    }
+
+    .grandchild-02-02 {
+        margin-left: 10px;
+        font-size: 15px;
+        
+    }
+
+    .grandchild-02-03 {
+        margin-right: 31px;
+        font-size: 15px;
+    }
+
+    .grandchild-02-02 > ul > li > span {
+        
+        display: block;
+        width: 100%;
+    }
+
+    .grandchild-02-03 > ul > li > span {
+        
+        display: block;
+        width: 100%;
+    }
+
+    .grandchild-02-04 {        
+        margin-top: 110px;
+    }
+
+    .son-03 {
+        flex-basis: 75%;
+        margin-left: 31px;
+    }
+
+    .son-08 {
+        margin-top: -9px;
+        margin-right: 242px;
+    }
+
+
+    .son-04 {
+        
+        position: fixed;
+        margin-left: 456px;
+        margin-bottom: 1377px;
+    }
+
+    .son-01 {        
+        margin-top: -596px;       
+        margin-left: 3px;
+               
+    }
+
+    .gear {
+        font-size: 18px;
+        margin: 0px auto;
+    }
+
+    .son-06 {
+        flex-basis: 44%;
+        margin-left: 27px;
+    }
+
+    .grandchild-06-00 {
+        height: 83px;
+        width: 85px;
+        margin-bottom: 33px;
+    }
+
+    .great-great-grandchild-06-00 {        
+        font-size: 25px;     
+        
+    }
+
+    .great-great-grandchild-07-00 {        
+        font-size: 17px;     
+        
+    }
+
+    .son-07 {
+        flex-basis: 53%;
+        margin-left: 10px;
+        margin-top: -50px;
+    }
+
+    .son-11 {
+        flex-basis: 44%;
+        margin-left: 27px;
+        margin-top: 86px;
+    }
+
+    .son-10 {
+        
+        margin-top: 93px;
+        font-size: 29px;
+        margin-right: 88px;
+    }
+
+    .son-09 {
+        margin-left: 39px;
+    }
+
+    .grandchild-09-00 {
+        width: 278px;
+    }
+
+    .son-09 > div:nth-child(2) {
+        margin-left: 0px;
+        margin-top: -20px;        
+    }
+
+    .cap {
+        margin-top: -18px;
+        margin-right: 11px;
+    }
+    
+}
