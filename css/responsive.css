@@ -186,3 +186,380 @@
         margin-right: 11px;
     }    
 }
+
+
+@media (max-width: 539px){  
+    .shadow-tittle {        
+        font-size: 60px;
+        margin-top: -1px;
+        margin-right: 47px;        
+    }
+
+    .son-05 > h2 {
+        font-size: 38px;
+        margin-top: 15px;
+        margin-right: 104px;        
+    }
+
+    .son-02 {
+        flex-basis: 74%;
+        margin-left: -20px;
+        margin-right: 25px;        
+    }
+
+    .grandchild-02-01 {
+       font-size: 12px; 
+       margin-left: 10px;       
+    }
+
+    .grandchild-02-02 {
+        margin-left: -34px;
+        font-size: 15px;        
+    }
+
+    .grandchild-02-03 {
+        margin-right: 25px;
+        font-size: 15px;
+    }
+
+    .grandchild-02-02 > ul > li > span {        
+        display: block;
+        width: 100%;
+    }
+
+    .grandchild-02-03 > ul > li > span {        
+        display: block;
+        width: 100%;
+    }
+
+    .grandchild-02-04 {        
+        margin-top: 110px;
+        margin-left: 11px;
+    }
+
+    .son-03 {
+        flex-basis: 42%;
+        margin-left: 82px;
+    }   
+    
+    .grandchild-03-00 {
+        border: 2px solid #252525;
+        border-radius: 20px;
+        width: 83px;
+        height: 85px;
+        padding: 10px;            
+    }
+
+    .letter-aboutme {
+        font-size: 13px;        
+    }
+
+    .number-aboutme {
+        font-size: 33px;        
+    }
+
+    .son-08 {
+        margin-top: -9px;
+        margin-right: 66px;
+        font-size: 27px;
+    }
+
+
+    .son-04 {        
+        position: fixed;
+        margin-left: 482px;
+        
+        margin-bottom: 1377px;
+    }
+
+    .son-01 {        
+        margin-top: -596px;       
+        margin-left: 3px;               
+    }
+
+    .gear {
+        font-size: 18px;
+        margin: 0px auto;
+    }
+
+    .son-06 {
+        flex-basis: 35%;
+        margin-left: 133px;
+    }
+
+    .grandchild-06-00 {
+        height: 61px;
+        width: 64px;
+        margin-bottom: 33px;
+    }
+
+    .great-great-grandchild-06-00 {        
+        font-size: 17px;        
+    }
+
+    .great-great-grandchild-07-00 {        
+        font-size: 12px;
+        margin-left: 24px;      
+    }
+
+    .great-great-grandchild-07-01 {
+        margin-left: -54px;
+    }
+
+    .son-07 {
+        flex-basis: 53%;
+        margin-left: 95px;
+        margin-top: -71px;
+    }
+    
+
+    .son-11 {
+        flex-basis: 35%;
+        margin-left: 133px;
+        margin-top: 86px;
+    }   
+
+    .son-10 {        
+        margin-top: 93px;
+        font-size: 20px;
+        margin-right: 88px;
+    }
+
+    .son-09 {
+        margin-left: 39px;
+        font-size: 14px;
+    }
+
+    .grandchild-09-00 {
+        width: 167px;
+    }
+
+    .son-09 > div:nth-child(2) {
+        margin-left: 66px;
+        margin-top: -20px;        
+    }
+
+    .cap {
+        margin-top: -18px;
+        margin-right: -53px;
+        margin-left: 61px
+        
+    }    
+
+    .grandchild-04-00 {
+        
+        height: 60px;
+    }
+
+    .son-04 span {
+        font-size: 11px;        
+        border-radius: 30px;
+        padding-top: 5px;
+        margin: 0px;
+        width: 34px;
+        height: 24px;
+        
+        
+    }
+
+    .grandchild-04-01 > li > span {
+        font-size: 18px;
+    }    
+}
+
+@media (max-width: 520px){    
+
+    .shadow-tittle {        
+        font-size: 52px;
+        margin-top: 20px;
+        margin-right: 47px;        
+    }
+
+    .son-05 > h2 {
+        font-size: 34px;
+        margin-top: 32px;
+        margin-right: 104px;        
+    }
+
+    .son-02 {
+        flex-basis: 64%;
+        height: auto;          
+        flex-direction: column;         
+        margin: 0 auto;
+        margin-left: -16px;
+        text-align: center;
+    }   
+
+    .grandchild-02-02 > ul > li > span {        
+        display: block;
+        width: 100%;
+    }
+
+    .grandchild-02-03 > ul > li > span {        
+        display: block;
+        width: 100%;
+    }
+
+    .grandchild-02-04 {       
+        margin: 0 auto;
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+
+    .son-03 {              
+        margin: 0 auto;        
+        flex-basis: 200px;
+    }
+    
+    .grandchild-03-00 {
+        border: 2px solid #252525;
+        border-radius: 20px;
+        width: 83px;
+        height: 85px;
+        padding: 10px; 
+        
+    }
+
+    .letter-aboutme {
+        font-size: 13px;        
+    }
+
+    .number-aboutme {
+        font-size: 33px;        
+    }
+
+    .son-08 {
+        margin-top: 150px;
+        margin-right: 66px;
+        font-size: 27px;
+    }
+
+
+    .son-04 {        
+        position: fixed;
+        margin-left: 273px;        
+        margin-bottom: 1377px;
+    }
+
+    .son-01 {         
+        width: auto;
+        height: auto;           
+        padding: 5px;
+        margin-bottom: 163px;
+    }
+
+    .gear {
+        font-size: 13px;
+        margin: 0px auto;
+    }
+
+    .son-06 {
+        flex-basis: 35%;
+        margin-left: 75px;
+        flex-direction: row;
+    }
+
+    .grandchild-06-00 {
+        height: 61px;
+        width: 64px;
+        margin-bottom: 33px;
+    }
+
+    .great-great-grandchild-06-00 {        
+        font-size: 17px;        
+    }
+
+    .great-great-grandchild-07-00 {        
+        font-size: 12px;
+        margin-left: 24px; 
+        margin-bottom: 9px;     
+    }
+
+
+
+    .great-great-grandchild-07-01A {
+        margin-left: 23px;
+        margin-bottom: 56px;
+    }
+
+    .great-great-grandchild-07-01B {
+        margin-left: 23px;
+        margin-bottom: 103px;
+    }
+
+    .great-great-grandchild-07-01C {
+        margin-left: 23px;
+        margin-bottom: 153px;
+    }
+
+
+    .son-07 {
+        flex-basis: 53%;
+        margin-left: 35px;
+        margin-top: -71px;
+    }
+    
+
+    .son-11 {
+        flex-basis: 35%;
+        margin-left: 75px;
+        margin-top: 273px;
+        flex-direction: row;
+    }
+
+    .son-10 {        
+        margin-top: 412px;
+        font-size: 20px;
+        margin-left: 45px;
+    }
+
+    .son-09 {
+        margin-left: -37px;
+        font-size: 14px;
+    }
+
+    .grandchild-09-00 {
+        width: 167px;
+    }
+
+    .son-09 > div:nth-child(2) {
+        margin-left: 66px;
+        margin-top: -20px;        
+    }
+
+    .cap {
+        margin-top: -9px;
+        margin-right: -53px;
+        margin-left: 61px;        
+        padding-bottom: 6px;
+        width: 30px;
+        height: 16px;    
+        border-radius: 48px;        
+    }
+
+    .cap > span {
+        font-size: 17px;         
+    }
+    
+    
+
+    .grandchild-04-00 {
+        
+        height: 60px;
+    }
+
+    .son-04 span {
+        font-size: 11px;        
+        border-radius: 30px;
+        padding-top: 5px;
+        margin: 0px;
+        width: 34px;
+        height: 24px;
+        
+        
+    }
+
+    .grandchild-04-01 > li > span {
+        font-size: 18px;
+    }    
+}
